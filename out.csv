@@ -1,0 +1,486 @@
+Name,Attunement,DC,Attack Bonus,Rarity,Cost,Source
+Perfume of Bewitching,,,,Common,75,XGE 138
+Potion of Climbing,,,,Common,30,DMG 187
+Potion of Healing (Common),,,,Common,50,DMG 187-188
+Bottled Breath,,,,Uncommon,350,PA 222
+Oil of Slipperiness,,,,Uncommon,250,DMG 184
+Philter of Love,,,,Uncommon,150,DMG 184
+Potion of Animal Friendship,,,,Uncommon,200,DMG 187
+Potion of Fire Breath,,,,Uncommon,350,DMG 187
+Potion of Giant Strength (Hill),,,,Uncommon,125,DMG 187
+Potion of Growth,,,,Uncommon,300,DMG 187
+Potion of Healing (Uncommon),,,,Uncommon,300,DMG 187-188
+Potion of Poison,,,,Uncommon,500,DMG 188
+Potion of Resistance,,,,Uncommon,500,DMG 188
+Potion of Waterbreathing,,,,Uncommon,400,DMG 188
+Elixir of Health,,,,Rare,2000,DMG 168
+Oil of Etherealness,,,,Rare,2000,DMG 183
+Potion of Clairvoyance,,,,Rare,900,DMG 187
+Potion of Diminution,,,,Rare,500,DMG 187
+Potion of Gaseous Form,,,,Rare,1500,DMG 187
+Potion of Giant Strength (Frost/Stone),,,,Rare,650,DMG 187
+Potion of Giant Strength (Fire),,,,Rare,1200,DMG 187
+Potion of Healing (Rare),,,,Rare,750,DMG 187-188
+Potion of Heroism,,,,Rare,800,DMG 188
+Potion of Invulnerability,,,,Rare,1500,DMG 188
+Potion of Mind Control (beast),,,,Rare,1600,TYP 229
+Potion of Mind Control (humanoid),,,,Rare,2500,TYP 229
+Potion of Mind Reading,,,,Rare,1100,DMG 188
+Oil of Sharpness,,,,Very Rare,2200,DMG 184
+Potion of Flying,,,,Very Rare,2500,DMG 187
+Potion of Giant Strength (Cloud),,,,Very Rare,1800,DMG 187
+Potion of Healing (Very Rare),,,,Very Rare,1500,DMG 187-188
+Potion of Invisibility,,,,Very Rare,2000,DMG 188
+Potion of Longevity,,,,Very Rare,3000,DMG 188
+Potion of Mind Control (monster),,,,Very Rare,6000,TYP 229
+Potion of Speed,,,,Very Rare,2000,DMG 188
+Potion of Vitality,,,,Very Rare,1800,DMG 188
+Potion of Giant Size,,,,Legendary,11000,SKT 236
+Potion of Giant Strength (Storm),,,,Legendary,8000,DMG 187
+Veteran's Cane,No,,,Common,50,XGE 139
+ +1 Weapon (any),No,,,Uncommon,500,DMG 213
+Blood Spear,Yes,,,Uncommon,375,CS 221
+Ild Rune Weapon (any weapon),No,,,Uncommon,400,SKT 235
+Javelin of Lightning,No,,,Uncommon,350,DMG 178
+Seeker Dart,No,,,Uncommon,100,PA 223
+Shatterspike (longsword),Yes,,,Uncommon,550,TYP 229
+ (any two-handed melee weapon),No,,,Uncommon,500,SKT 234
+Storm Boomerang,No,,,Uncommon,150,PA 223
+Sword of Vengeance (any sword),Yes,,,Uncommon,400,DMG 206
+Trident of Fish Command,Yes,,,Uncommon,300,DMG 209
+Weapon of Warning,Yes,,,Uncommon,400,DMG 213
+ +2 Weapon (any),No,,,Rare,2500,DMG 213
+Berserker Axe (cursed),Yes,,,Rare,2000,DMG 155
+Dagger of Venom,No,,,Rare,1500,DMG 161
+Dragon Slayer (any sword),No,,,Rare,4800,DMG 166
+Dragontooth Dagger,No,,,Rare,5000,RT 93
+Spell Scroll (Cantrip),No,13,5,Common,15,DMG 200
+Spell Scroll (1st Level),No,13,5,Common,25,DMG 200
+Spell Scroll (2nd Level),No,13,5,Uncommon,150,DMG 200
+Spell Scroll (3rd Level),No,15,7,Uncommon,400,DMG 200
+Spell Scroll (4th Level),No,15,7,Rare,800,DMG 200
+Spell Scroll (5th Level),No,17,9,Rare,1500,DMG 200
+Scroll of Protection,No,,,Rare,3500,DMG 199
+Spell Scroll (6th Level),No,17,9,Very Rare,2000,DMG 200
+Spell Scroll (7th Level),No,18,10,Very Rare,3500,DMG 200
+Spell Scroll (8th Level),No,18,10,Very Rare,5000,DMG 200
+Spell Scroll (9th Level),No,19,11,Legendary,20000,DMG 200
+Spell Scroll or Gem (Cantrip),Yes (optional),13,5,Uncommon,150,OA 223
+Spell Scroll or Gem (1st Level),Yes (optional),13,5,Uncommon,350,OA 223
+Spell Scroll or Gem (2nd Level),Yes (optional),13,5,Rare,1500,OA 223
+Spell Scroll or Gem (3rd Level),Yes (optional),15,7,Rare,4000,OA 223
+Spell Scroll or Gem (4th Level),Yes (optional),15,7,Very Rare,8000,OA 223
+Spell Scroll or Gem (5th Level),Yes (optional),17,9,Very Rare,15000,OA 223
+Spell Scroll or Gem (6th Level),Yes (optional),17,9,Very Rare,20000,OA 223
+Spell Scroll or Gem (7th Level),Yes (optional),18,10,Legendary,35000,OA 223
+Spell Scroll or Gem (8th Level),Yes (optional),18,10,Legendary,51000,OA 223
+Spell Scroll or Gem (9th Level),Yes (optional),19,11,Legendary,78000,OA 223
+Flame Tongue (any sword),Yes,,,Rare,5000,DMG 170
+Giant Slayer (any axe or sword),No,,,Rare,4600,DMG 172
+Mace of Disruption,Yes,,,Rare,1750,DMG 179
+Mace of Smiting,No,,,Rare,2000,DMG 179
+Mace of Terror,Yes,,,Rare,3500,DMG 180
+Sun Blade (longsword),Yes,,,Rare,2000,DMG 205
+Sunforger (warhammer),Yes,,,Rare,4600,GGR 181
+Sword of Life Stealing (any sword),Yes,,,Rare,2200,DMG 206
+Sword of Wounding (any sword),Yes,,,Rare,1200,DMG 207
+Vicious Weapon (any weapon),No,,,Rare,4000,DMG 209
+ +3 Weapon (any),No,,,Very Rare,15000,DMG 213
+Dancing Sword (any sword),Yes,,,Very Rare,10000,DMG 161
+Dwarven Thrower (warhammer),Yes,,,Very Rare,25000,DMG 167
+Frost Brand (any sword),Yes,,,Very Rare,11000,DMG 171
+Nine Lives Stealer (any sword),Yes,,,Very Rare,36000,DMG 183
+Oathbow (longbow),Yes,,,Very Rare,13000,DMG 183
+Scimitar of Speed,Yes,,,Very Rare,7500,DMG 199
+Spear of Backbiting (spear or javelin),Yes,,,Very Rare,6500,TYP 229
+Sword of the Paruns (longsword),Yes,,,Very Rare,16000,GGR 181
+Sword of Sharpness (slashing swords),Yes,,,Very Rare,42000,DMG 206
+Azuredge (battleaxe),Yes,,,Legendary,53000,WDH 189
+Bookmark (dagger),Yes,,,Legendary,30000,TA 206
+Dawnbringer (longsword),Yes (non-evil),,,Legendary,57000,OA 222
+Defender (any sword),Yes,,,Legendary,55000,DMG 164
+Drown (trident),Yes,,,Legendary,66000,PA 224
+Gurt's Greataxe,Yes,,,Legendary,67000,SKT 234
+Hammer of Thunderbolts (maul),Yes,,,Legendary,51000,DMG 173
+Hazirawn (greatsword),Yes,,,Legendary,66000,HDQ 94
+Holy Avenger (any sword),Yes (paladin),,,Legendary,65000,DMG 174
+Ironfang (war pick),Yes,,,Legendary,76000,PA 224-225
+Korolnor Scepter,Yes,,,Legendary,63000,SKT 234-235
+Luck Blade (any sword),Yes,,,Legendary,100000,DMG 179
+Orcsplitter (greataxe),Yes (good dwarf/fighter/paladin),,,Legendary,60000,PA 224
+Rakdos Riteknife (dagger),Yes,,,Legendary,60000,GGR 180
+Sunsword (longsword),Yes,,,Legendary,55000,CS 223
+Sword of Answering (longsword),Yes (same alignment),,,Legendary,51000,DMG 206
+Tinderstrike (dagger),Yes,,,Legendary,71000,PA 225
+Vorpal Sword (slashing swords),Yes,,,Legendary,75000,DMG 209
+Waythe (greatsword),Yes,,,Legendary,62000,TYP 229
+Windvane (spear),Yes,,,Legendary,68000,PA 225
+"Vind Rune Armor (light, medium, or heavy)",Yes,,,Uncommon,300,SKT 236
+"Ild Rune Armor (light, medium, or heavy)",Yes,,,Rare,3000,SKT 235
+Scorpion Armor (plate),Yes,,,Rare,2100,TA 208
+Shield of Expression,No,,,Common,50,XGE 139
+ +1 Shield ,No,,,Uncommon,450,DMG 200
+Sentinel Shield,No,,,Uncommon,300,DMG 199
+ +2 Shield,No,,,Rare,4000,DMG 200
+Arrow-Catching Shield,Yes,,,Rare,4500,DMG 152
+Pariah's Shield,Yes,,,Rare,1500,GGR 180
+Shield of Missile Attraction,Yes,,,Rare,1000,DMG 200
+Skold Rune Shield,Yes,,,Rare,2600,SKT 234
+Stein Rune Shield,Yes,,,Rare,4600,SKT 235
+ +3 Shield,No,,,Very Rare,22000,DMG 200
+Animated Shield,Yes,,,Very Rare,6000,DMG 151
+Spellguard Shield,Yes,,,Very Rare,36000,DMG 201
+Unbreakable Arrow (arrow),,,,Common,25,XGE 139
+Walloping Ammunition (any),,,,Common,30,XGE 139
++1 Ammunition (any),,,,Uncommon,50,DMG 150
++2 Ammunition (any),,,,Rare,250,DMG 150
++3 Ammunition (any),,,,Very Rare,2500,DMG 150
+Arrow of Slaying (any),,,,Very Rare,1000,DMG 152
+Wand of Conducting,No,,,Common,90,XGE 140
+Wand of Pyrotechnics,No,,,Common,65,XGE 140
+Wand of Scowls,No,,,Common,60,XGE 140
+Wand of Smiles,No,,,Common,60,XGE 140
+ +1 Wand of the War Mage,Yes,,,Uncommon,400,DMG 212
+Wand of Entangle,Yes (spellcaster),,,Uncommon,300,TYP 229
+Wand of Magic Detection,No,,,Uncommon,150,DMG 211
+Wand of Magic Missiles,No,,,Uncommon,300,DMG 211
+Wand of Secrets,No,,,Uncommon,125,DMG 211
+Wand of Web,Yes,,,Uncommon,250,DMG 212
+ +2 Wand of the War Mage,Yes,,,Rare,4000,DMG 212
+Wand of Binding,Yes,,,Rare,2500,DMG 209
+Wand of Enemy Detection,Yes,,,Rare,3750,DMG 210
+Wand of Fear,Yes,,,Rare,3250,DMG 210
+Wand of Fireballs,Yes,,,Rare,4800,DMG 210
+Wand of Lightning Bolts,Yes,,,Rare,4800,DMG 211
+Wand of Paralysis,Yes,,,Rare,4250,DMG 211
+Wand of Viscid Globs,Yes,,,Rare,900,OA 223
+Wand of Winter,Yes,,,Rare,4100,HDQ 94
+Wand of Wonder,Yes,,,Rare,2250,DMG 212
+ +3 Wand of the War Mage,Yes,,,Very Rare,14000,DMG 212
+Wand of Polymorph,Yes,,,Very Rare,21000,DMG 211
+Immovable Rod,No,,,Uncommon,500,DMG 175
+Rod of the Pact Keeper (+1),Yes,,,Uncommon,400,DMG 197
+Rod of Rulership,Yes,,,Rare,3600,DMG 197
+Rod of the Pact Keeper (+2),Yes,,,Rare,4000,DMG 197
+Rod of the Vonindod,Yes,,,Rare,3400,SKT 236
+Tentacle Rod,Yes,,,Rare,2000,DMG 208
+Rod of Absorption,Yes,,,Very Rare,48000,DMG 195
+Rod of Alertness,Yes,,,Very Rare,11000,DMG 196
+Rod of Security,No,,,Very Rare,45000,DMG 197
+Rod of the Pact Keeper (+3),Yes,,,Very Rare,14000,DMG 197
+Rod of Lordly Might,Yes,,,Legendary,70000,DMG 196
+Rod of Resurrection,Yes,,,Legendary,125000,DMG 197
+Guild Signet,Yes,,,Uncommon,350,GGR 178
+Ring of Jumping,Yes,,,Uncommon,250,DMG 191
+Ring of Mind Shielding,Yes,,,Uncommon,450,DMG 191
+Ring of Swimming,No,,,Uncommon,300,DMG 193
+Ring of Truth Telling,Yes,,,Uncommon,150,WDH 192
+Ring of Warmth,Yes,,,Uncommon,480,DMG 193
+Ring of Water Walking,No,,,Uncommon,500,DMG 193
+Ring of Animal Influence,No,,,Rare,1000,DMG 189
+Ring of Evasion,Yes,,,Rare,4900,DMG 191
+Ring of Feather Falling,Yes,,,Rare,2200,DMG 191
+Ring of Free Action,Yes,,,Rare,4500,DMG 191
+Ring of Protection,Yes,,,Rare,3000,DMG 191
+Ring of Resistance,Yes,,,Rare,3500,DMG 192
+Ring of Spell Storing,Yes,,,Rare,3600,DMG 192
+Ring of the Ram,Yes,,,Rare,4000,DMG 193
+Ring of X-Ray Vision,Yes,,,Rare,3500,DMG 193
+Ring of Regeneration,Yes,,,Very Rare,40000,DMG 191
+Ring of Shooting Stars,Yes,,,Very Rare,20000,DMG 192
+Ring of Telekinesis,Yes,,,Very Rare,25000,DMG 193
+Ring of Djinni Summoning,Yes,,,Legendary,125000,DMG 190
+Staff of Adornment,No,,,Common,50,XGE 139
+Staff of Birdcalls,No,,,Common,70,XGE 139
+Staff of Flowers,No,,,Common,50,XGE 139
+Skyblinder Staff,Yes,,,Uncommon,375,GGR 181
+Staff of the Adder,Yes,,,Uncommon,350,DMG 203
+Staff of the Python,Yes,,,Uncommon,250,DMG 204
+Gulthias Staff,Yes,,,Rare,2200,CS 221
+Spider Staff,Yes,,,Rare,1750,LMP 53
+Staff of Charming,Yes,,,Rare,3750,DMG 201
+Staff of Defense,Yes,,,Rare,3400,LMP 53
+Staff of Healing,Yes,,,Rare,4800,DMG 202
+Staff of Swarming Insects,Yes,,,Rare,4500,DMG 203
+Staff of the Woodlands,Yes,,,Rare,4500,DMG 204
+Staff of Withering,Yes,,,Rare,2100,DMG 205
+Staff of Fire,Yes,,,Very Rare,18000,DMG 201
+Staff of Frost,Yes,,,Very Rare,18000,DMG 202
+Staff of Power,Yes,,,Very Rare,46000,DMG 202
+Staff of Striking,Yes,,,Very Rare,36000,DMG 203
+Staff of Thunder and Lightning,Yes,,,Very Rare,30000,DMG 204-205
+Voyager Staff,Yes (spellcaster),,,Very Rare,10500,GGR 181
+Blackstaff,Yes (special),,,Legendary,72000,WDH 190
+Dragonstaff of Anghairon,Yes,,,Legendary,50500,WDH 191
+Staff of the Magi,Yes,,,Legendary,98000,DMG 203
+Ersatz Eye,Yes,,,Common,75,XGE 137
+Eyes of Charming,Yes,,,Uncommon,300,DMG 168
+Eyes of Minute Seeing,No,,,Uncommon,150,DMG 168
+Eyes of the Eagle,Yes,,,Uncommon,400,DMG 168
+Goggles of Night,No,,,Uncommon,300,DMG 172
+Mast of the Beast,No,,,Uncommon,200,TA 207
+Black Dragon Mask,Yes,,,Legendary,95000,HDQ 94
+Dread Helm,No,,,Common,55,XGE 137
+Hat of Vermin,No,,,Common,65,XGE 137
+Hat of Wizardry,Yes (wizard),,,Common,75,XGE 137
+Cap of Water Breathing,No,,,Uncommon,450,DMG 157
+Circlet of Blasting,No,,,Uncommon,350,DMG 158
+Hat of Disguise,Yes,,,Uncommon,475,DMG 173
+Headband of Intellect,Yes,,,Uncommon,450,DMG 173
+Helm of Comprehending Languages,No,,,Uncommon,200,DMG 173
+Helm of Telepathy,Yes,,,Uncommon,300,DMG 174
+Spies' Murmur,Yes,,,Uncommon,475,GGR 181
+Helm of Teleportation,Yes,,,Rare,4250,DMG 174
+Ioun Stone: Awareness,Yes,,,Rare,4000,DMG 176-177
+Ioun Stone: Protection,Yes,,,Rare,3600,DMG 176-177
+Ioun Stone: Reserve,Yes,,,Rare,4500,DMG 176-177
+Ioun Stone: Sustenance,Yes,,,Rare,3000,DMG 176-177
+Knave's Eye Patch,Yes,,,Rare,2000,WDH 191
+Helm of Brilliance,Yes,,,Very Rare,32000,DMG 173
+Ioun Stone: Absorption,Yes,,,Very Rare,20000,DMG 176-177
+Ioun Stone: Agility,Yes,,,Very Rare,8000,DMG 176-177
+Ioun Stone: Fortitude,Yes,,,Very Rare,8000,DMG 176-177
+Ioun Stone: Insight,Yes,,,Very Rare,8000,DMG 176-177
+Ioun Stone: Intellect,Yes,,,Very Rare,8000,DMG 176-177
+Ioun Stone: Leadership,Yes,,,Very Rare,8000,DMG 176-177
+Peregrine Mask,Yes,,,Very Rare,6000,GGR 180
+Ioun Stone: Strength,Yes,,,Very Rare,8000,DMG 176-177
+Ioun Stone: Greater Absorption,Yes,,,Legendary,60000,DMG 176-177
+Ioun Stone: Mastery,Yes,,,Legendary,60000,DMG 176-177
+Ioun Stone: Regeneration,Yes,,,Legendary,55000,DMG 176-177
+Lost Crown of Besilmer,Yes,,,Legendary,23000,PA 223-224
+Ring of Elemental Command,Yes,,,Legendary,200000,DMG 190
+Ring of Invisibility,Yes,,,Legendary,75000,DMG 191
+Ring of Spell Turning,Yes,,,Legendary,66000,DMG 193
+Ring of Three Wishes,No,,,Legendary,97950,DMG 193
+Cloak of Billowing,No,,,Common,100,XGE 136
+Cloak of Many Fashions,No,,,Common,90,XGE 136
+Cloak of Elvenkind,Yes,,,Uncommon,250,DMG 158
+Cloak of Protection,Yes,,,Uncommon,400,DMG 159
+Cloak of the Manta Ray,No,,,Uncommon,350,DMG 159
+Piwafwi (Cloak of Elvenkind),Yes,,,Uncommon,200,OA 222
+Cape of the Mountebank,No,,,Rare,3900,DMG 157
+Cloak of Displacement,Yes,,,Rare,3600,DMG 158
+Cloak of the Bat,Yes,,,Rare,4600,DMG 159
+Hell Hound Cloak,Yes,,,Rare,1700,TYP 228
+Ise Rune Cloak,Yes,,,Rare,1200,SKT 237
+Mantle of Spell Resistance,Yes,,,Rare,4200,DMG 180
+Piwafwi of Fire Resistance,Yes,,,Rare,1400,OA 222
+Vind Rune Cloak,Yes,,,Rare,650,SKT 236
+Wings of Flying,Yes,,,Rare,3600,DMG 214
+Cloak of Arachnida,Yes,,,Very Rare,14000,DMG 158
+Cloak of Invisibility,Yes,,,Legendary,54000,DMG 158-159
+Bracers of Archery,Yes,,,Uncommon,350,DMG 156
+Bracer of Flying Daggers,Yes,,,Rare,1000,WDH 190
+Bracers of Defense,Yes,,,Rare,4000,DMG 156
+Bracelet of Rock Magic,Yes,,,Very Rare,9000,TYP 228
+Illusionist's Bracers,Yes (spellcaster),,,Very Rare,13500,GGR 178
+Clockwork Amulet,No,,,Common,100,XGE 137
+Dark Shard Amulet,Yes (warlock),,,Common,75,XGE 137
+Amulet of Proof Against Detection and Location,Yes,,,Uncommon,400,DMG 150
+Brooch of Shielding,Yes,,,Uncommon,375,DMG 156
+Medallion of Thoughts,Yes,,,Uncommon,300,DMG 181
+Necklace of Adaptation,Yes,,,Uncommon,450,DMG 182
+Periapt of Health,No,,,Uncommon,250,DMG 184
+Periapt of Wound Closure,Yes,,,Uncommon,375,DMG 184
+Amulet of Health,Yes,,,Rare,4000,DMG 150
+Amulet of Protection from Turning,Yes,,,Rare,3600,TYP 228
+Necklace of Fireballs,No,,,Rare,4350,DMG 182
+Necklace of Prayer Beads,Yes (cleric/druid/paladin),,,Rare,5000,DMG 182
+Periapt of Proof Against Poison,No,,,Rare,4700,DMG 184
+Amulet of the Black Skull,Yes,,,Very Rare,6400,TA 206
+Amulet of the Planes,Yes,,,Very Rare,43000,DMG 150
+Holy Symbol of Ravenkind,Yes (good cleric/paladin),,,Legendary,51000,CS 222
+Scarab of Protection,Yes,,,Legendary,58000,DMG 199
+Gauntlets of Ogre Power,Yes,,,Uncommon,450,DMG 171
+Gloves of Missile Snaring,Yes,,,Uncommon,325,DMG 172
+Gloves of Swimming and Climbing,Yes,,,Uncommon,250,DMG 172
+Gloves of Thievery,No,,,Uncommon,300,DMG 172
+Claws of the Umber Hulk,Yes,,,Rare,4300,PA 222
+Clothes of Mending,No,,,Common,50,XGE 137
+Mizzium Apparatus,Yes (special),,,Uncommon,500,GGR 179
+Robe of Serpents,Yes,,,Uncommon,375,SKT 236
+Robe of Useful Items,No,,,Uncommon,400,DMG 195
+Wingwear,Yes,,,Uncommon,300,PA 223
+Lord's Ensemble,Yes,,,Rare,5000,WDH 191
+Robe of Eyes,Yes,,,Rare,5000,DMG 193-194
+Robe of Summer,Yes,,,Rare,2900,TYP 229
+Robe of Scintillating Colors,Yes,,,Very Rare,27000,DMG 194
+Robe of Stars,Yes,,,Very Rare,45000,DMG 194
+Robe of the Archmagi,Yes,,,Legendary,75000,DMG 194
+Belt of Dwarvenkind,Yes,,,Rare,5000,DMG 155
+Belt of Giant Strength (Hill),Yes,,,Rare,4000,DMG 155
+Belt of Giant Strength (Stone/Frost),Yes,,,Very Rare,12000,DMG 155
+Belt of Giant Strength (Fire),Yes,,,Very Rare,36000,DMG 155
+Belt of Giant Strength (Cloud),Yes,,,Legendary,66000,DMG 155
+Belt of Giant Strength (Storm),Yes,,,Legendary,100000,DMG 155
+Boots of False Tracks,No,,,Common,60,XGE 136
+Boots of Elvenkind,No,,,Uncommon,400,DMG 155
+Boots of Striding and Springing,Yes,,,Uncommon,200,DMG 156
+Boots of the Winterlands,Yes,,,Uncommon,300,DMG 156
+Slippers of Spider Climbing,Yes,,,Uncommon,500,DMG 200
+Stein Rune Boots,Yes,,,Uncommon,350,SKT 235
+Winged Boots,Yes,,,Uncommon,500,DMG 214
+Boots of Levitation,Yes,,,Rare,4500,DMG 155
+Boots of Speed,Yes,,,Rare,3000,DMG 155
+Ise Rune Boots,Yes,,,Rare,2650,SKT 237
+Vind Rune Boots,Yes,,,Rare,650,SKT 236
+Bead of Nourishment,No,,,Common,25,XGE 136
+Bead of Refreshment,No,,,Common,25,XGE 136
+Candle of the Deep,No,,,Common,50,XGE 136
+Charlatan's Die,Yes,,,Common,80,XGE 136
+Ear Horn of Hearing,No,,,Common,75,XGE 137
+Enduring Spellbook,No,,,Common,100,XGE 137
+Heward's Handy Spice Pouch,No,,,Common,100,XGE 137
+Horn of Silent Alarm,No,,,Common,85,XGE 137
+Instrument of Illusions,Yes,,,Common,100,XGE 137
+Instrument of Scribing,Yes,,,Common,80,XGE 138
+Lock of Trickery,No,,,Common,50,XGE 138
+Moodmark Paint,No,,,Common,50,GGR 180
+Mystery Key,No,,,Common,50,XGE 138
+Orb of Direction,No,,,Common,50,XGE 138
+Orb of Time,No,,,Common,50,XGE 138
+Pipe of Smoke Monsters,No,,,Common,50,XGE 138
+Pole of Angling,No,,,Common,50,XGE 138
+Pole of Collapsing,No,,,Common,55,XGE 138
+Pot of Awakening,No,,,Common,85,XGE 138
+Rope of Mending,No,,,Common,50,XGE 138
+Ruby of the War Mage,Yes (spellcaster),,,Common,100,XGE 138
+Talking Doll,Yes,,,Common,75,XGE 139
+Tankard of Sobriety,No,,,Common,80,XGE 139
+Alchemy Jug,No,,,Uncommon,100,DMG 150
+Bag of Holding,No,,,Uncommon,500,DMG 153-154
+Bag of Tricks,No,,,Uncommon,350,DMG 154
+Balance of Harmony,No,,,Uncommon,200,TYP 228
+Balloon Pack,No,,,Uncommon,275,PA 222
+Broom of Flying,No,,,Uncommon,450,DMG 156
+Decanter of Endless Water,No,,,Uncommon,300,DMG 161
+Deck of Illusions,No,,,Uncommon,450,DMG 161-162
+Driftglobe,No,,,Uncommon,100,DMG 166
+Dust of Disappearance,No,,,Uncommon,200,DMG 166
+Dust of Dryness,No,,,Uncommon,350,DMG 166
+Dust of Sneezing and Choking,No,,,Uncommon,150,DMG 166
+Elemental Gem,No,,,Uncommon,250,DMG 168
+Eversmoking Bottle,No,,,Uncommon,270,DMG 168
+Figurine of Wondrous Power (Silver Raven),No,,,Uncommon,380,DMG 170
+Gem of Brightness,No,,,Uncommon,250,DMG 171
+Guild Charms,No,,,Uncommon,450,GGR 173
+Insignia of Claws,No,,,Uncommon,450,HDQ 94
+Instrument of the Bards (Doss Lute),Yes (bard),,,Uncommon,250,DMG 176
+Instrument of the Bards (Fochlucan Bandore),Yes (bard),,,Uncommon,350,DMG 176
+Instrument of the Bards (Mac-Fuimidh Cittern),Yes (bard),,,Uncommon,450,DMG 176
+Keoghtom's Ointment,No,,,Uncommon,400,DMG 179
+Lantern of Revealing,No,,,Uncommon,500,DMG 179
+Night Caller,No,,,Uncommon,350,TYP 228
+Paper Bird,No,,,Uncommon,350,WDH 191
+Pearl of Power,Yes (spellcaster),,,Uncommon,400,DMG 184
+Pipes of Haunting,No,,,Uncommon,300,DMG 185
+Pipes of the Sewers,Yes,,,Uncommon,150,DMG 185
+Pyroconverger,Yes,,,Uncommon,250,GGR 180
+Quiver of Ehlonna,No,,,Uncommon,250,DMG 189
+Rakdos Keyrune,Yes (special),,,Uncommon,400,GGR 178
+Rope of Climbing,No,,,Uncommon,350,DMG 197
+Saddle of the Cavalier,No,,,Uncommon,250,DMG 199
+Sending Stones,No,,,Uncommon,500,DMG 199
+Simic Keyrune,Yes (special),,,Uncommon,500,GGR 178
+Smokepowder,No,,,Uncommon,325,WDH 192
+Stone of Good Luck,Yes,,,Uncommon,400,DMG 205
+Stone of Ill Luck,Yes,,,Uncommon,400,TYP 229
+Wind Fan,No,,,Uncommon,150,DMG 213
+Azorius Keyrune,Yes (special),,,Rare,1000,GGR 177
+Badge of the Watch,Yes (special),,,Rare,3250,WDH 189
+Bag of Beans,No,,,Rare,4200,DMG 152
+Banner of the Krig Rune,Yes,,,Rare,4400,SKT 233
+Bead of Force,No,,,Rare,3000,DMG 154
+Blod Stone,Yes,,,Rare,6500,SKT 233
+Boros Keyrune,Yes (special),,,Rare,3500,GGR 177
+Bowl of Commanding Water Elementals,No,,,Rare,4700,DMG 156
+Brazier of Commanding Fire Elementals,No,,,Rare,4700,DMG 156
+Censer of Controlling Air Elementals,No,,,Rare,4700,DMG 158
+Chime of Opening,No,,,Rare,3000,DMG 158
+Claw of the Wyrm Rune,Yes,,,Rare,4400,SKT 233
+Cube of Force,Yes,,,Rare,5000,DMG 159-160
+Daern's Instant Fortress,No,,,Rare,5000,DMG 160-161
+Dimensional Shackles,No,,,Rare,2800,DMG 165
+Eagle Whistle,No,,,Rare,600,TYP 228
+Feather of Diatryma Summoning,Yes,,,Rare,600,WDH 191
+Figurine of Wondrous Power (Bronze Griffon),No,,,Rare,3600,DMG 169
+Figurine of Wondrous Power (Ebony Fly),No,,,Rare,3600,DMG 169
+Figurine of Wondrous Power (Golden Lions),No,,,Rare,5000,DMG 169
+Figurine of Wondrous Power (Ivory Goats),No,,,Rare,5000,DMG 169
+Figurine of Wondrous Power (Marble Elephant),No,,,Rare,5000,DMG 170
+Figurine of Wondrous Power (Onyx Dog),No,,,Rare,3200,DMG 170
+Figurine of Wondrous Power (Serpentine Owl),No,,,Rare,3000,DMG 170
+Folding Boat,No,,,Rare,4750,DMG 170-171
+Gavel of the Venn Rune,Yes,,,Rare,2800,SKT 234
+Gem of Seeing,Yes,,,Rare,5000,DMG 172
+Ghost Lantern,Yes,,,Rare,1750,TA 206
+Gruul Keyrune,Yes (special),,,Rare,2800,GGR 177
+Heward's Handy Haversack,No,,,Rare,2000,DMG 174
+Horn of Blasting,No,,,Rare,2500,DMG 174-175
+Horn of Valhalla (Silver/Brass),No,,,Rare,5000,DMG 175
+Horseshoes of Speed,No,,,Rare,3000,DMG 175
+Instrument of the Bards (Canaith Mandolin),Yes (bard),,,Rare,3750,DMG 176
+Instrument of the Bards (Cli Lyre),Yes (bard),,,Rare,4250,DMG 176
+Iron Bands of Bilarro,No,,,Rare,2600,DMG 177
+Izzet Keyrune,Yes (special),,,Rare,1850,GGR 177
+Loadstone,No,,,Rare,150,TYP 228
+Mirror of the Past,No,,,Rare,3800,TYP 228
+Mizzium Mortar,No,,,Rare,2100,GGR 179
+Opal of the Ild Rune,Yes,,,Rare,3500,SKT 235
+Orb of the Stein Rune,Yes,,,Rare,2700,SKT 235
+Orzhov Keyrune,Yes (special),,,Rare,1100,GGR 178
+Portable Hole,No,,,Rare,5000,DMG 185-187
+Quaal's Feather Token,No,,,Rare,1000,DMG 188-189
+Rope of Entanglement,No,,,Rare,1000,DMG 197-199
+Selesnya Keyrune,Yes (special),,,Rare,1500,GGR 178
+Stone of Controlling Earth Elementals,No,,,Rare,4700,DMG 205
+Stonespeaker Crystal,Yes,,,Rare,4600,OA 223
+Weird Tank,Yes,,,Rare,2200,PA 223
+Bag of Devouring,No,,,Very Rare,12000,DMG 153
+Candle of Invocation,Yes,,,Very Rare,8400,DMG 157
+Carpet of Flying,No,,,Very Rare,44000,DMG 157
+Conch of Teleportation,Yes,,,Very Rare,1850,SKT 234
+Crystal Ball,Yes,,,Very Rare,42000,DMG 159
+Devastation Orb (Air),No,,,Very Rare,8000,PA 222
+Devastation Orb (Earth),No,,,Very Rare,11000,PA 222
+Devastation Orb (Fire),No,,,Very Rare,9500,PA 222
+Devastation Orb (Water),No,,,Very Rare,9500,PA 223
+Dimir Keyrune,Yes (special),,,Very Rare,26000,GGR 177
+Efreeti Bottle,No,,,Very Rare,45000,DMG 167
+Figurine of Wondrous Power (Obsidian Steed),No,,,Very Rare,28500,DMG 170
+Golgari Keyrune,Yes (special),,,Very Rare,7500,GGR 177
+Horn of Valhalla (Bronze),No,,,Very Rare,20000,DMG 175
+Horseshoes of a Zephyr,No,,,Very Rare,6000,DMG 175
+Ingot of the Skold Rune,Yes,,,Very Rare,15000,SKT 234
+Instrument of the Bards (Anstruth Harp),Yes (bard),,,Very Rare,17500,DMG 176
+Manual of Bodily Health,No,,,Very Rare,36000,DMG 180
+Manual of Gainful Exercise,No,,,Very Rare,36000,DMG 180
+Manual of Golems,No,,,Very Rare,22000,DMG 180-181
+Manual of Quickness of Action,No,,,Very Rare,36000,DMG 181
+Mirror of Life Trapping,No,,,Very Rare,50000,DMG 181-182
+Navigation Orb,Yes,,,Very Rare,27000,SKT 235
+Nolzur's Marvelous Pigments,No,,,Very Rare,16000,DMG 183
+Pennant of the Vind Rune,Yes,,,Very Rare,13000,SKT 235-236
+Shard of the Ise Rune,Yes,,,Very Rare,9000,SKT 236
+Tome of Clear Thought,No,,,Very Rare,36000,DMG 208
+Tome of Leadership and Influence,No,,,Very Rare,36000,DMG 208
+Tome of Understanding,No,,,Very Rare,36000,DMG 209
+Apparatus of Kwalish,No,,,Legendary,90000,DMG 151
+Crystal Ball of Mind Reading,Yes,,,Legendary,51000,DMG 159
+Crystal Ball of Telepathy,Yes,,,Legendary,70000,DMG 159
+Crystal Ball of True Seeing,Yes,,,Legendary,80000,DMG 159
+Cubic Gate,No,,,Legendary,164000,DMG 160
+Deck of Many Things,No,,,Legendary,200000,DMG 162-164
+Horn of Valhalla (Iron),No,,,Legendary,50000,DMG 175
+Icon of Ravenloft,Yes (good),,,Legendary,50500,CS 222
+Instrument of the Bards (Ollamh Harp),Yes (bard),,,Legendary,51000,DMG 176
+Iron Flask,No,,,Legendary,170000,DMG 178
+Sovereign Glue,No,,,Legendary,5000,DMG 200
+Sphere of Annihilation,No,,,Legendary,200000,DMG 201
+Talisman of Pure Good,Yes (good),,,Legendary,125000,DMG 207
+Talisman of the Sphere,Yes,,,Legendary,75000,DMG 207
+Talisman of Ultimate Evil,Yes (evil),,,Legendary,125000,DMG 207
+Tome of the Stilled Tongue,Yes (wizard),,,Legendary,60000,DMG 208
+Universal Solvent,No,,,Legendary,5000,DMG 209
+Well of Many Worlds,No,,,Legendary,90000,DMG 213
